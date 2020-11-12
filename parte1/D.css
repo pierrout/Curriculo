@@ -1,0 +1,22 @@
+h1{
+    text-align: center; 
+ }
+ p.data,p.endereco,p.cep,p.telefone,p.email{
+    text-align: right;
+ }
+
+ a:link, a:visited {
+    text-decoration: none
+    
+	}
+a:hover {
+	text-decoration: underline; 
+    color: gray
+    
+	}
+a:active {
+    text-decoration: none
+    }
+a:link{
+    text-align: right;
+}
